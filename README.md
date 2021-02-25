@@ -7,7 +7,7 @@
 - 🤔 I consider GitHub an excellent tool as it has several functions to do interesting activities.
 
 - Some of the programming languages ​​that I want to learn are the following:
--  C#.
--  Java.
--  Phyton
--  JavaScript
+  -  C#.
+  -  Java.
+  -  Phyton
+  -  JavaScript
